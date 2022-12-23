@@ -1,0 +1,121 @@
+@media screen and (min-width: 1199px) {
+
+    #img-sec2{
+       
+        width: 510px;
+        height: 493px;
+    }
+    .sec2-droite{
+        
+        width: 570px;
+        height: 690px;
+    }
+    .sec4{
+
+        justify-content: center;
+    }
+    .sec5{
+
+        justify-content: center;
+    }
+    .sec5-cont{
+
+        display: flex;
+        justify-content: center !important;
+    }
+    .sec5-b{
+
+        display: flex;
+        justify-self: right;
+    }
+    .p2-citation{
+
+        width: 400px;
+    }
+    .img-sec5-h{
+
+        width: 570px;
+        background-size: contain;
+    }
+    .p5-h{
+        width: 570px;
+    }
+    .text5-b1 p{
+        width: 510px;
+        height: 210px;
+    }
+    .text5-b2 ul{
+
+        transform: translate(100px,-20px);
+        text-align: left;
+    }
+    .sec6{
+
+        margin-bottom: 200px;
+    }
+    .bloc{
+
+        flex-direction: row;
+        width: 700px;
+        height: 500px;
+    }
+    .bloc >*{
+
+        width: 300px;
+        height: 235px;
+        transform: translate(-100px);
+    }
+    .croissant{
+
+        width: 359px;
+        height: 360px;
+        transform: translate(-100px,-100px) !important;
+    }
+    .triangle1{
+
+        width: 528px;
+        height: 522px;
+        transform: translate(-50px,100px)!important;
+    }
+    .sec7-cont{
+
+        margin-left: 50px;
+    }
+    .sec7-bloc1,
+    .sec7-bloc2,
+    .sec7-bloc3{
+
+        width: 572px;
+        height: 211px;
+    }
+    .carre{
+
+        transform: translate(150px,500px)!important;
+    }
+    .sec8-cont{
+        width: auto;
+    }
+    .sec8-1{
+
+        width: 550px;
+        height: 693px;
+    }
+    .sec8-2{
+        width: 550px;
+        height: 693px;
+    }
+    input,
+    textarea{
+
+        width: 425px;
+    }
+    .inputs{
+        padding-left: 30px;
+
+    }
+    .inputs h3{
+        font-size: 24px;
+        
+
+    }
+}
